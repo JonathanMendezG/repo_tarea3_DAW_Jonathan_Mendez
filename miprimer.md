@@ -30,9 +30,9 @@ lista desordenada
 
 [enlace a url externa](https://pedrosegarra.github.io/DAW/Ud1%20Control%20de%20versiones/P1_6_tallerMarkdown/)
 
-[Readme] (README.MD)
+[Readme](README.md)
 
-![IMAGEN] (IMAGEN_LOGO2.jpg)
+![IMAGEN](IMAGEN_LOGO2.jpg)
 
 | Columna 1 | Columna 2 | Columna 3 |
 |-----------|-----------|-----------|
