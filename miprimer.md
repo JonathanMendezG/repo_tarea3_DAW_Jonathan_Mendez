@@ -15,6 +15,8 @@ $suma = $numero + 10;
 echo " La suma es: " . $suma;
 ?>
 
+```
+
 lista ordenada
 1. First item
 2. Second item
