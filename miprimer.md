@@ -28,11 +28,11 @@ lista desordenada
 - Third item
 
 
-[enlace a url externa]https://pedrosegarra.github.io/DAW/Ud1%20Control%20de%20versiones/P1_6_tallerMarkdown/
+[enlace a url externa](https://pedrosegarra.github.io/DAW/Ud1%20Control%20de%20versiones/P1_6_tallerMarkdown/)
 
-[Readme] README.MD
+[Readme] (README.MD)
 
-![IMAGEN] IMAGEN_LOGO2.jpg
+![IMAGEN] (IMAGEN_LOGO2.jpg)
 
 | Columna 1 | Columna 2 | Columna 3 |
 |-----------|-----------|-----------|
